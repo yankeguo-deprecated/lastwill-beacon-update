@@ -4,7 +4,7 @@ A tool to update beacon file in repository 'lastwill'
 
 ## Donation
 
-Check <https://guoyk93.github.io/#donation>
+Check <https://guoyk.xyz/donation>
 
 ## Credits
 
